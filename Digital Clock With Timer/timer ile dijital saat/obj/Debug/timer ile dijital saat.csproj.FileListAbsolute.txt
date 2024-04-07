@@ -1,0 +1,10 @@
+C:\Users\İBRAHİM\Desktop\c# projeler\timer ile dijital saat\timer ile dijital saat\bin\Debug\timer ile dijital saat.exe.config
+C:\Users\İBRAHİM\Desktop\c# projeler\timer ile dijital saat\timer ile dijital saat\bin\Debug\timer ile dijital saat.exe
+C:\Users\İBRAHİM\Desktop\c# projeler\timer ile dijital saat\timer ile dijital saat\bin\Debug\timer ile dijital saat.pdb
+C:\Users\İBRAHİM\Desktop\c# projeler\timer ile dijital saat\timer ile dijital saat\obj\Debug\timer ile dijital saat.csproj.AssemblyReference.cache
+C:\Users\İBRAHİM\Desktop\c# projeler\timer ile dijital saat\timer ile dijital saat\obj\Debug\timer_ile_dijital_saat.Form1.resources
+C:\Users\İBRAHİM\Desktop\c# projeler\timer ile dijital saat\timer ile dijital saat\obj\Debug\timer_ile_dijital_saat.Properties.Resources.resources
+C:\Users\İBRAHİM\Desktop\c# projeler\timer ile dijital saat\timer ile dijital saat\obj\Debug\timer ile dijital saat.csproj.GenerateResource.cache
+C:\Users\İBRAHİM\Desktop\c# projeler\timer ile dijital saat\timer ile dijital saat\obj\Debug\timer ile dijital saat.csproj.CoreCompileInputs.cache
+C:\Users\İBRAHİM\Desktop\c# projeler\timer ile dijital saat\timer ile dijital saat\obj\Debug\timer ile dijital saat.exe
+C:\Users\İBRAHİM\Desktop\c# projeler\timer ile dijital saat\timer ile dijital saat\obj\Debug\timer ile dijital saat.pdb
